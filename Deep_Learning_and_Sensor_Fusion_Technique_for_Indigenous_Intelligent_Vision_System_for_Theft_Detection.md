@@ -1,6 +1,6 @@
 # Deep Learning and Sensor Fusion Technique for Indigenous Intelligent Vision System for Theft Detection
 
-- The paper titled "Deep Learning and Sensor Fusion Technique for Indigenous Intelligent Vision System for Theft Detection" presents a novel system aimed at enhancing theft detection in retail environments, particularly in jewelry stores.
+- **The paper titled "Deep Learning and Sensor Fusion Technique for Indigenous Intelligent Vision System for Theft Detection" presents a novel system aimed at enhancing theft detection in retail environments, particularly in jewelry stores.**
 
 **Abstract:**
 The authors propose an indigenous system that integrates deep learning and sensor fusion technologies to classify various objects associated with burglary and suspicious activities. The system is designed to analyze real-time data, enabling timely alerts and responses to potential theft incidents.
